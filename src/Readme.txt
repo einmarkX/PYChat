@@ -23,3 +23,13 @@
 # Note , This software CANNOT chat using internet, it
 # mean, this PYChat software, only can use local private network
 # or, localhost
+
+# How to Use IT?
+# -> Run Server first, then the second one, client
+# -> If you didn't know what port is, just leave it empty
+# -> Fill the Username and IP
+# Note For IP :
+# You can use your another device's ip, but your secondary device
+# Must Be connected to same wifi as your device that host the server
+# Note #2:
+# If you want to end the chat , just use ctrl + c
