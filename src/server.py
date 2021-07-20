@@ -20,7 +20,7 @@
 #:
 #:
 #:          <Maintained Under>
-#:   Maulana B. <https://github.com/floppvs
+#:   Maulana B. <https://github.com/DogeX86-64>
 import socket,signal,sys
 
 def handler(signum,frame):
