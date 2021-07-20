@@ -18,7 +18,7 @@
 #:
 #:
 #:          <Maintained Under>
-#:   Maulana B. <https://github.com/floppvs
+#:   Maulana B. <https://github.com/DogeX86-64>
 
 # Note , This software CANNOT chat using internet, it
 # mean, this PYChat software, only can use local private network
